@@ -1,5 +1,5 @@
 Keras==2.2.5
-Pillow==6.1.0
+Pillow==6.2.0
 jupyter==1.0.0
 jupyterlab==1.1.1
 librosa==0.7.0
